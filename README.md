@@ -28,7 +28,6 @@ Engineered an end-to-end data pipeline integrating external REST API data on par
 Conducted an exploratory and quantitative data analysis of global startup ecosystems, funding rounds, and investment trajectories using Python and SQL data manipulation techniques. Cleaned and processed raw, multi-source business datasets to evaluate venture capital distribution, industry-specific success rates, and company valuation trends over time. Transformed complex financial and operational metrics into comprehensive statistical plots and visualizations to model growth patterns and identify high-potential market opportunities.
 
 #### 🧘 [Wellness Smart Device Consumer Analytics](https://github.com/10Nikus/wellness-company)
-%
 Analyzed smart device fitness tracking and biometric data from a health-focused wellness company to identify core consumer usage trends and behavioral patterns. Cleaned, transformed, and aggregated disparate datasets tracking daily activity metrics, sleep cycles, and caloric expenditure to build comprehensive user profiles and validate data consistency. Synthesized data-driven insights into high-level marketing strategies and product optimization recommendations to drive targeted customer acquisition and sustainable business growth.
 
 ---
