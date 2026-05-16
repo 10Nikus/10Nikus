@@ -6,10 +6,18 @@ I am a Computer Science and Econometrics student at AGH University of Science an
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages & Queries:** SQL (Advanced), Python (Pandas, NumPy, Scikit-learn, BeautifulSoup), R (Tidyverse)
-* **Cloud & Data Engineering:** Google BigQuery, REST APIs, ETL/ELT Pipelines, Data Ingestion
-* **BI & Data Visualization:** Tableau, Power BI, Looker Studio, Streamlit, PyDeck, Advanced Excel
-* **Automation & DevOps:** GitHub Actions, Git, CI/CD Workflows
+![SQL](https://img.shields.io/badge/SQL-Advanced-007acc?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-Statistical-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+![Tableau](https://img.shields.io/badge/Tableau-BI-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Source_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -31,6 +39,11 @@ Conducted an exploratory and quantitative data analysis of global startup ecosys
 Analyzed smart device fitness tracking and biometric data from a health-focused wellness company to identify core consumer usage trends and behavioral patterns. Cleaned, transformed, and aggregated disparate datasets tracking daily activity metrics, sleep cycles, and caloric expenditure to build comprehensive user profiles and validate data consistency. Synthesized data-driven insights into high-level marketing strategies and product optimization recommendations to drive targeted customer acquisition and sustainable business growth.
 
 ---
+
+### 🎯 Current Focus & Learning Roadmap
+
+* 📖 Deepening knowledge in Machine learning architectures and operationalization based on Aurélien Géron's frameworks.
+* 🛠️ Designing an end-to-end MLOps pipeline focusing on model serialization, deployment, and automated validation loops.
 
 
 ⚡ **Fun fact:** I enjoy snowboarding in the winter and hiking in the mountains when I'm not optimizing queries or building data pipelines.
