@@ -33,11 +33,6 @@ Analyzed smart device fitness tracking and biometric data from a health-focused 
 
 ---
 
-### 📈 GitHub Stats
-
-![Nikodem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=10Nikus&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10Nikus&layout=compact&theme=dark)
 
 ⚡ **Fun fact:** I enjoy snowboarding in the winter and hiking in the mountains when I'm not optimizing queries or building data pipelines.
 
